@@ -1,0 +1,15 @@
+C:\LearningCSharp\VariablesAndOperators\Exercice_1\bin\Debug\net6.0\Exercice_1.exe
+C:\LearningCSharp\VariablesAndOperators\Exercice_1\bin\Debug\net6.0\Exercice_1.deps.json
+C:\LearningCSharp\VariablesAndOperators\Exercice_1\bin\Debug\net6.0\Exercice_1.runtimeconfig.json
+C:\LearningCSharp\VariablesAndOperators\Exercice_1\bin\Debug\net6.0\Exercice_1.dll
+C:\LearningCSharp\VariablesAndOperators\Exercice_1\bin\Debug\net6.0\Exercice_1.pdb
+C:\LearningCSharp\VariablesAndOperators\Exercice_1\obj\Debug\net6.0\Exercice_1.csproj.AssemblyReference.cache
+C:\LearningCSharp\VariablesAndOperators\Exercice_1\obj\Debug\net6.0\Exercice_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\LearningCSharp\VariablesAndOperators\Exercice_1\obj\Debug\net6.0\Exercice_1.AssemblyInfoInputs.cache
+C:\LearningCSharp\VariablesAndOperators\Exercice_1\obj\Debug\net6.0\Exercice_1.AssemblyInfo.cs
+C:\LearningCSharp\VariablesAndOperators\Exercice_1\obj\Debug\net6.0\Exercice_1.csproj.CoreCompileInputs.cache
+C:\LearningCSharp\VariablesAndOperators\Exercice_1\obj\Debug\net6.0\Exercice_1.dll
+C:\LearningCSharp\VariablesAndOperators\Exercice_1\obj\Debug\net6.0\refint\Exercice_1.dll
+C:\LearningCSharp\VariablesAndOperators\Exercice_1\obj\Debug\net6.0\Exercice_1.pdb
+C:\LearningCSharp\VariablesAndOperators\Exercice_1\obj\Debug\net6.0\Exercice_1.genruntimeconfig.cache
+C:\LearningCSharp\VariablesAndOperators\Exercice_1\obj\Debug\net6.0\ref\Exercice_1.dll
