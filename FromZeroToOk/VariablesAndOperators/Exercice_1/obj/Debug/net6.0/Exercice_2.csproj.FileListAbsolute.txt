@@ -1,0 +1,15 @@
+C:\MyCSharpThings\FromZeroToOk\VariablesAndOperators\Exercice_2\bin\Debug\net6.0\Exercice_2.exe
+C:\MyCSharpThings\FromZeroToOk\VariablesAndOperators\Exercice_2\bin\Debug\net6.0\Exercice_2.deps.json
+C:\MyCSharpThings\FromZeroToOk\VariablesAndOperators\Exercice_2\bin\Debug\net6.0\Exercice_2.runtimeconfig.json
+C:\MyCSharpThings\FromZeroToOk\VariablesAndOperators\Exercice_2\bin\Debug\net6.0\Exercice_2.dll
+C:\MyCSharpThings\FromZeroToOk\VariablesAndOperators\Exercice_2\bin\Debug\net6.0\Exercice_2.pdb
+C:\MyCSharpThings\FromZeroToOk\VariablesAndOperators\Exercice_2\obj\Debug\net6.0\Exercice_2.csproj.AssemblyReference.cache
+C:\MyCSharpThings\FromZeroToOk\VariablesAndOperators\Exercice_2\obj\Debug\net6.0\Exercice_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyCSharpThings\FromZeroToOk\VariablesAndOperators\Exercice_2\obj\Debug\net6.0\Exercice_2.AssemblyInfoInputs.cache
+C:\MyCSharpThings\FromZeroToOk\VariablesAndOperators\Exercice_2\obj\Debug\net6.0\Exercice_2.AssemblyInfo.cs
+C:\MyCSharpThings\FromZeroToOk\VariablesAndOperators\Exercice_2\obj\Debug\net6.0\Exercice_2.csproj.CoreCompileInputs.cache
+C:\MyCSharpThings\FromZeroToOk\VariablesAndOperators\Exercice_2\obj\Debug\net6.0\Exercice_2.dll
+C:\MyCSharpThings\FromZeroToOk\VariablesAndOperators\Exercice_2\obj\Debug\net6.0\refint\Exercice_2.dll
+C:\MyCSharpThings\FromZeroToOk\VariablesAndOperators\Exercice_2\obj\Debug\net6.0\Exercice_2.pdb
+C:\MyCSharpThings\FromZeroToOk\VariablesAndOperators\Exercice_2\obj\Debug\net6.0\Exercice_2.genruntimeconfig.cache
+C:\MyCSharpThings\FromZeroToOk\VariablesAndOperators\Exercice_2\obj\Debug\net6.0\ref\Exercice_2.dll
