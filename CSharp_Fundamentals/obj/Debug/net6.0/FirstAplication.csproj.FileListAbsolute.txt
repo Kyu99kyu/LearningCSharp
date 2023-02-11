@@ -1,0 +1,15 @@
+C:\Projects\LearningCSharp\CSharp_Fundamentals\obj\Debug\net6.0\FirstAplication.csproj.AssemblyReference.cache
+C:\Projects\LearningCSharp\CSharp_Fundamentals\obj\Debug\net6.0\FirstAplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LearningCSharp\CSharp_Fundamentals\obj\Debug\net6.0\FirstAplication.AssemblyInfoInputs.cache
+C:\Projects\LearningCSharp\CSharp_Fundamentals\obj\Debug\net6.0\FirstAplication.AssemblyInfo.cs
+C:\Projects\LearningCSharp\CSharp_Fundamentals\obj\Debug\net6.0\FirstAplication.csproj.CoreCompileInputs.cache
+C:\Projects\LearningCSharp\CSharp_Fundamentals\bin\Debug\net6.0\FirstAplication.exe
+C:\Projects\LearningCSharp\CSharp_Fundamentals\bin\Debug\net6.0\FirstAplication.deps.json
+C:\Projects\LearningCSharp\CSharp_Fundamentals\bin\Debug\net6.0\FirstAplication.runtimeconfig.json
+C:\Projects\LearningCSharp\CSharp_Fundamentals\bin\Debug\net6.0\FirstAplication.dll
+C:\Projects\LearningCSharp\CSharp_Fundamentals\bin\Debug\net6.0\FirstAplication.pdb
+C:\Projects\LearningCSharp\CSharp_Fundamentals\obj\Debug\net6.0\FirstAplication.dll
+C:\Projects\LearningCSharp\CSharp_Fundamentals\obj\Debug\net6.0\refint\FirstAplication.dll
+C:\Projects\LearningCSharp\CSharp_Fundamentals\obj\Debug\net6.0\FirstAplication.pdb
+C:\Projects\LearningCSharp\CSharp_Fundamentals\obj\Debug\net6.0\FirstAplication.genruntimeconfig.cache
+C:\Projects\LearningCSharp\CSharp_Fundamentals\obj\Debug\net6.0\ref\FirstAplication.dll

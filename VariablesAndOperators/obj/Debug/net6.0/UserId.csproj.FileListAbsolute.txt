@@ -1,0 +1,15 @@
+C:\Projects\LearningCSharp\variablesAndOperators\bin\Debug\net6.0\UserId.exe
+C:\Projects\LearningCSharp\variablesAndOperators\bin\Debug\net6.0\UserId.deps.json
+C:\Projects\LearningCSharp\variablesAndOperators\bin\Debug\net6.0\UserId.runtimeconfig.json
+C:\Projects\LearningCSharp\variablesAndOperators\bin\Debug\net6.0\UserId.dll
+C:\Projects\LearningCSharp\variablesAndOperators\bin\Debug\net6.0\UserId.pdb
+C:\Projects\LearningCSharp\variablesAndOperators\obj\Debug\net6.0\UserId.csproj.AssemblyReference.cache
+C:\Projects\LearningCSharp\variablesAndOperators\obj\Debug\net6.0\UserId.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LearningCSharp\variablesAndOperators\obj\Debug\net6.0\UserId.AssemblyInfoInputs.cache
+C:\Projects\LearningCSharp\variablesAndOperators\obj\Debug\net6.0\UserId.AssemblyInfo.cs
+C:\Projects\LearningCSharp\variablesAndOperators\obj\Debug\net6.0\UserId.csproj.CoreCompileInputs.cache
+C:\Projects\LearningCSharp\variablesAndOperators\obj\Debug\net6.0\UserId.dll
+C:\Projects\LearningCSharp\variablesAndOperators\obj\Debug\net6.0\refint\UserId.dll
+C:\Projects\LearningCSharp\variablesAndOperators\obj\Debug\net6.0\UserId.pdb
+C:\Projects\LearningCSharp\variablesAndOperators\obj\Debug\net6.0\UserId.genruntimeconfig.cache
+C:\Projects\LearningCSharp\variablesAndOperators\obj\Debug\net6.0\ref\UserId.dll
